@@ -1,2 +1,3 @@
-# polls-rest
-Polls Django Rest Framework
+# Polls Django Rest
+
+Polls Django Rest APIs
